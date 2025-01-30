@@ -28,7 +28,7 @@ If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you 
 
 0. [Examples](/examples/)
 1. [Characters](/characters/) __- UPDATED__
-2. [Goroutines](/goroutines/)
+2. [Goroutines](/goroutines/) __- UPDATED__
 3. [Illustrations](/illustrations/) __- UPDATED__
 
 There are special illustrations with life situations, goroutines and individual characters. Take a look at the [examples](/examples/) to see how cool they might look in real life.
